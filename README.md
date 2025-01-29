@@ -1,5 +1,5 @@
 # proportion
-R package for proportion
+Python package for proportion
 
 Multiple procedures to obtain an interval estimate for an unknown
 proportion (p) based on binomial sampling. It is known that approximations
